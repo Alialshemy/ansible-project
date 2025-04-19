@@ -1,0 +1,2 @@
+[myserver]
+3.149.213.252 ansible_user=ubuntu private-key= 
